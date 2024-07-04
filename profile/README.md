@@ -1,12 +1,27 @@
-## Hi there 👋
+![logo](https://github.com/Beansite-Dev/.github/assets/108243683/ddb8a595-b2c4-4993-9e3a-4a9542a3074c)
+***
+# Welcome to Beansite
+This orginization is dedicated to developing and updating beansite. It is a compilation thrown together by the original creator, M1dnightDev, for orginization.
 
-<!--
+## Major Beansite Releases:
 
-**Here are some ideas to get you started:**
+### Beansite XP
+> The latest and best version of beansite<br>
+> Lifespan: June 2024 => Current<br>
+> [Link](https://mbxp.vercel.app)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Beansite 98
+> [!CAUTION]
+> This version is extremely messy and the code is depricated. It won't recieve updats nor will it be a pleasant experience
+
+> The first attempt at porting beansite to react/vite<br>
+> Lifespan: December 2023 => January 2024<br>
+> [Link](https://b98-preview.vercel.app)
+
+### Beansite 95 
+> [!WARNING]
+> This version has been It will no longer recieve updates
+
+> The first version of beansite, and the project that started this all.<br>
+> Lifespan: November 2023 => June 2024<br>
+> [Link](https://mb95.vercel.app)
