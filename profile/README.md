@@ -12,7 +12,7 @@ This orginization is dedicated to developing and updating beansite. It is a comp
 
 ### Beansite 98
 > [!CAUTION]
-> This version is extremely messy and the code is depricated. It won't recieve updats nor will it be a pleasant experience
+> This version is extremely buggy and the code is depricated. It won't recieve updats nor will it be a pleasant experience
 
 > The first attempt at porting beansite to react/vite<br>
 > Lifespan: December 2023 => January 2024<br>
@@ -20,7 +20,7 @@ This orginization is dedicated to developing and updating beansite. It is a comp
 
 ### Beansite 95 
 > [!WARNING]
-> This version has been It will no longer recieve updates
+> This version has been depricated. It will no longer recieve updates
 
 > The first version of beansite, and the project that started this all.<br>
 > Lifespan: November 2023 => June 2024<br>
