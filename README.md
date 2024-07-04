@@ -9,7 +9,7 @@ This orginization is dedicated to developing and updating beansite. It is a comp
 The latest and best version of beansite
 Lifespan: June 2024 => Current
 
-[![Button Click]][Link] 
+[![Button Click]][https://mbxp.vercel.app]
 
 ### Beansite 98
 > [!WARNING]
@@ -31,8 +31,6 @@ Lifespan: November 2023 => June 2024
 
 <!---------------------------------------------------------------------------->
 
-[Button Hover]: https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge
-[Button Click]: https://img.shields.io/badge/Click_Me!-37a779?style=for-the-badge
-[Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
+[Button Click]: https://img.shields.io/badge/Link-37a779?style=for-the-badge
 
 [Link]: # 'Link with example title.'
