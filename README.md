@@ -25,5 +25,3 @@ This orginization is dedicated to developing and updating beansite. It is a comp
 > The first version of beansite, and the project that started this all.<br>
 > Lifespan: November 2023 => June 2024<br>
 > [Link](https://mb95.vercel.app)
-
-![Beansite Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Beansite-Dev&show_icons=true&theme=transparent)
