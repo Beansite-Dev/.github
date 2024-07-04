@@ -13,6 +13,7 @@ Lifespan: June 2024 => Current
 ### Beansite 98
 > [!WARNING]
 > This version has been It will no longer recieve updates
+
 The first attempt at porting beansite to react/vite
 Lifespan: December 2023 => January 2024
 [<kbd><br>Link<br></kbd>][https://mb98.vercel.app]
@@ -20,6 +21,7 @@ Lifespan: December 2023 => January 2024
 ### Beansite 95 
 > [!WARNING]
 > This version has been It will no longer recieve updates
+
 The first version of beansite, and the project that started this all.
 Lifespan: November 2023 => June 2024
 [<kbd><br>Link<br></kbd>][https://mb95.vercel.app]
