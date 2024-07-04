@@ -9,15 +9,16 @@ This orginization is dedicated to developing and updating beansite. It is a comp
 The latest and best version of beansite
 Lifespan: June 2024 => Current
 
-[![Button Click]][Link]
+[Link](https://mbxp.vercel.app)
 
 ### Beansite 98
-> [!WARNING]
-> This version has been It will no longer recieve updates
+> [!CAUTION]
+> This version is extremely messy and the code is depricated. It won't recieve updats nor will it be a pleasant experience
 
 The first attempt at porting beansite to react/vite
 Lifespan: December 2023 => January 2024
 
+[Link](https://b98-preview.vercel.app)
 
 ### Beansite 95 
 > [!WARNING]
@@ -26,11 +27,6 @@ Lifespan: December 2023 => January 2024
 The first version of beansite, and the project that started this all.
 Lifespan: November 2023 => June 2024
 
+[Link](https://mb95.vercel.app)
 
 ![Beansite Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=beansite-dev&show_icons=true&theme=transparent)
-
-<!---------------------------------------------------------------------------->
-
-[Button Click]: https://img.shields.io/badge/Link-37a779?style=for-the-badge
-
-[Link]: 'https://mbxp.vercel.app'
