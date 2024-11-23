@@ -1,4 +1,4 @@
-![logo]([https://github.com/Beansite-Dev/.github/assets/108243683/ddb8a595-b2c4-4993-9e3a-4a9542a3074c](https://github.com/Beansite-Dev/.github/blob/789cd74e155c665835a42b98fb5757576d4608b4/beansite7_logo_full.png))
+![logo](https://github.com/Beansite-Dev/.github/blob/789cd74e155c665835a42b98fb5757576d4608b4/beansite7_logo_full.png)
 ***
 # Welcome to Beansite
 This orginization is dedicated to developing and updating beansite. It is a compilation thrown together by the original creator, M1dnightDev, for orginization.
