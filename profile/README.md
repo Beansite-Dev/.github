@@ -6,12 +6,12 @@ This orginization is dedicated to developing and updating beansite. It is a comp
 ## Major Beansite Releases:
 
 ### Beansite 7?
-> BEANSITE 7 ?? A NEW ONE ??<br>
+> Latest version of beansite; the prefered option <br>
 > Lifespan: November 2024 => Current<br>
 > [Link](https://mb7.vercel.app)
 
 ### Beansite XP
-> Beansite based on Windows XP. One of the best releases. Far less buggy than previous releases<br>
+> Beansite based on Windows XP. <br>
 > Lifespan: June 2024 => Current<br>
 > [Link](https://mbxp.vercel.app)
 
